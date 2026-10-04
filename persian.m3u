@@ -32,6 +32,9 @@ https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="General",Manoto - Current Web Stream
 https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
 
+#EXTINF:-1 tvg-id="Manoto.uk@SD" group-title="General Backup",Manoto TV - OneTV Backup
+https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
+
 #EXTINF:-1 group-title="Music",Caltex Music
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 group-title="General",Your Time
